@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Mar 23 04:04:24 2024
-
-@author: USER
-"""
 h=open('Downloads\hw2_data.txt','r')
 data2={}
 
